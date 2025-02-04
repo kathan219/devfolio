@@ -1,6 +1,5 @@
 # 🚀 Kathan Soni - Personal Portfolio
 
-![Portfolio Preview](https://yourwebsite.com/preview-image.png) <!-- Replace with actual screenshot -->
 
 ## 📝 Overview
 This is my **personal portfolio website**, built with **React, TypeScript, Vite, and Tailwind CSS**.  
@@ -93,14 +92,6 @@ To deploy this project on **Vercel**, follow these steps:
 - [ ] Add Blog Section  
 - [ ] Improve Animations  
 - [ ] Integrate Analytics  
-
----
-
-## 📬 Contact
-💼 **Portfolio**: [kathansoni.com](https://www.kathansoni.com)  
-📧 **Email**: [kathansoni219@gmail.com](mailto:kathansoni219@gmail.com)  
-
----
 
 ## 📜 License
 This project is licensed under the **MIT License**. Feel free to modify and use it for your own portfolio.  
