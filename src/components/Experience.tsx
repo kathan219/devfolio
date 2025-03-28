@@ -18,10 +18,7 @@ const experiences = [
     company: 'Rydot Infotech Pvt Ltd.',
     period: 'September 2022 - June 2023',
     description: [
-      'Enhanced system performance by 30% by refactoring Spring Boot services, implementing caching, and optimizing database queries.',
-      'Significantly improved dynamic content rendering by 25% through DOM manipulation using JavaScript in single-page applications.',
-      'Automated testing frameworks using Selenium and JUnit, increasing test coverage by 40% and reducing manual testing time by 50%.',
-      'Conducted code reviews for 15+ weekly submissions, utilizing Git and BitBucket to ensure compliance with coding standards.',
+     
     ],
   },
   {
@@ -29,10 +26,7 @@ const experiences = [
     company: 'Softvan Technologies Ltd.',
     period: 'December 2021 - June 2022',
     description: [
-      'Developed RESTful HTTP APIs using Java and Spring, enhancing system interoperability by 30% for B2B solutions.',
-      'Implemented Test-Driven Development (TDD), reducing post-production errors by 20% and aligning with DevOps practices.',
-      'Wrote clean, maintainable code and unit tests using JUnit, resulting in a 30% reduction in bug reports over six months.',
-      'Configured SSL encryption for web services, ensuring data security and compliance across 100% of external communications using OpenSSL and Java Keystore.',
+      
     ],
   },
 ];
