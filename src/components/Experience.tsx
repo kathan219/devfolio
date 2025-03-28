@@ -18,7 +18,6 @@ const experiences = [
     company: 'Rydot Infotech Pvt Ltd.',
     period: 'September 2022 - June 2023',
     description: [
-     
     ],
   },
   {
